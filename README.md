@@ -18,6 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 ---
+[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graphusername=NANA100908&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/darkhacker28/Code-Magic)
 [![](https://visitcount.itsvg.in/api?id=NANA100908&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
