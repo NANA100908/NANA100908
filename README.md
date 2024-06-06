@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Front End Dev Projects<br>👯 I’m looking to collaborate on any Front-End Projects<br>🤝 I’m looking for help with My Practice Codes<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Web Dev<br>⚡ Contact me : kalwaniprerna16@gmail.com 
+#💫 Prerna Kalwani:
+🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on any Flutter Projects<br>🤝 I’m looking for help with My Practice Codes<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Data<br>⚡ Contact me : kalwaniprerna16@gmail.com 
 
 
 ## 🌐 Socials:
@@ -18,7 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 ---
-[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graphusername=NANA100908&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/darkhacker28/Code-Magic)
+[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NANA100908&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/NANA100908)
+
 [![](https://visitcount.itsvg.in/api?id=NANA100908&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
