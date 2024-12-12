@@ -1,6 +1,6 @@
 ## Prerna Kalwani:
 
-🔭 I’m currently working on Flutter Projects<br>👯 I’m looking to collaborate on any Flutter Projects<br>🤝 I’m looking for help with My Practice Codes<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Data<br>⚡ Contact me : kalwaniprerna16@gmail.com 
+🔭 I’m currently working on Data Analysis Tools <br>🤝 I’m looking for help with My Practice Codes<br>🌱 I’m currently learning Data Science and DSA<br>💬 Ask me about Data<br>⚡ Contact me : kalwaniprerna16@gmail.com 
 
 
 ## 🌐 Socials:
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=NANA100908&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NANA100908&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NANA100908&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@KalwaniPrerna)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
