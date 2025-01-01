@@ -1,6 +1,6 @@
 ## Prerna Kalwani:
 
-🔭 I’m currently working on Data Analysis Tools <br>🤝 I’m looking for help with My Practice Codes<br>🌱 I’m currently learning Data Science and DSA<br>💬 Ask me about Data<br>⚡ Contact me : kalwaniprerna16@gmail.com 
+🔭 I’m currently working on Data Analysis Tools <br>🤝 I’m looking for help with My Practice Codes<br>🌱 I’m currently learning Data Science and DSA<br>💬 Ask me about Data related questions<br>⚡ Contact me : kalwaniprerna16@gmail.com 
 
 
 ## 🌐 Socials:
