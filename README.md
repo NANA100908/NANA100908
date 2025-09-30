@@ -1,12 +1,12 @@
 ## Prerna Kalwani:
 
-⚡ Contact me : kalwaniprerna16@gmail.com 
-👩‍💻 Computer Science Master's Student | L1 Storage Engineer @ HPE
-🔍 Exploring enterprise storage, cloud computing, and machine learning
-🛠️ Skilled in Python, C++, and data science
-📈 Focused on performance analysis, automation, and technical documentation
-📚 Published researcher | 📜 Certified: Network+, Server+, Linux+
-🚀 Building solutions that solve real-world problems through technology
+⚡ Contact me : kalwaniprerna16@gmail.com <br>
+👩‍💻 Computer Science Master's Student | L1 Storage Engineer @ HPE <br>
+🔍 Exploring enterprise storage, cloud computing, and machine learning <br>
+🛠️ Skilled in Python, C++, and data science <br>
+📈 Focused on performance analysis, automation, and technical documentation <br>
+📚 Published researcher | 📜 Certified: Network+, Server+, Linux+ <br>
+🚀 Building solutions that solve real-world problems through technology <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kalwani_prerna_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Prerna-Kalwani) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@prernakalwani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kalwaniprerna) 
