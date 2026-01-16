@@ -5,7 +5,8 @@
 🔍 Exploring enterprise storage, cloud computing, and machine learning <br>
 🛠️ Skilled in Python, C++, and data science <br>
 📈 Focused on performance analysis, automation, and technical documentation <br>
-📚 Published researcher | 📜 Certified: Network+, Server+, Linux+ <br>
+📚 Published researcher 
+📜 Certified: Network+, Server+, Linux+ <br>
 🚀 Building solutions that solve real-world problems through technology <br>
 
 ## 🌐 Socials:
